@@ -16,12 +16,12 @@ content:
   autolink: true
   
   # Contact details (edit or remove options as required)
-  email: panh09@sjtu.edu.cn, phoena.hp@gmail.com
-  phone: +86 153 0145 1855
+  email: panh09@sjtu.edu.cn; phoena.hp@gmail.com
+  phone: +86 15301451855
   address:
     street: 800 Dongchuan RD
-    city: Shanghai
-    region: Minhang District
+    city: Minhang District
+    region: Shanghai
     postcode: '201100'
     country: China
     country_code: CN
