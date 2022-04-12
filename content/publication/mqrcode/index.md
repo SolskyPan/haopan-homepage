@@ -60,7 +60,7 @@ url_video: 'https://www.youtube.com/watch?v=gGQ-Bm64Pq8'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'mQRCode Application Scenarios'
+  caption: 'mQRCode application scenarios'
   focal_point: ""
   preview_only: false
 
