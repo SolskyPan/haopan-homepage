@@ -1,5 +1,5 @@
 ---
-title: "mqrcode: Secure qr code using nonlinearity of spatial frequency in light"
+title: "mQRCode: Secure QR Code Using Nonlinearity of Spatial Frequency in Light"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
