@@ -11,12 +11,8 @@ authors:
 - Xiaoyu Ji
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
 date: "2017-10-16T00:00:00Z"
-doi: "https://doi.org/.1145/3117811.3117824"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-10-16T00:00:00Z"
