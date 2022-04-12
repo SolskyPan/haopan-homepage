@@ -35,7 +35,7 @@ abstract: Near-field communication (NFC) plays a crucial role in the operation o
 
 
 # Summary. An optional shortened abstract.
-summary: MagnComm is a novel approach for near-field communication, which eliminates the need for dedicated hardware by embedding data stream into the MI signals of a CPU without affecting the normal function of the device.
+summary: MagnComm is a novel approach for near-field communication, which eliminates the need for dedicated hardware by embedding data stream into the magnetic induction signals of a CPU without affecting the normal function of the device.
 
 tags: [Near-filed communication]
 
