@@ -29,7 +29,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 20th International Conference on Information Processing in Sensor Networks*
-publication_short: In *IPSN 2021*
+publication_short: In *ACM IPSN*
 
 abstract: Text input systems based on device-free finger tracking technologies have attracted considerable attention in the use scenarios of mobile and the Internet-of-Things (IoT) devices. Issues pertaining to 2D tracking have prompted interest in using 1D finger trajectories for the recognition of handwritten letters. Nonetheless, 1D tracking imposes two major challenges, (i) Trajectory information loss from 2D to 1D; and (ii) Inter-user diversity in writing traits. These challenges could possibly be overcome by collecting a large training dataset for every user; however, this would impose an unacceptable burden on users. This paper presents a text input system with multi-language support without training using acoustic-based 1D finger tracking technology. We developed a novel data augmentation scheme, in which the handwritten image dataset MNISTs are used to create artificial datasets (called TrackMNISTs). We compensate for the trajectory information loss of 1D by creating personal dataset (from TrackMNIST) to match the writing habits of individual users. The proposed data augmentation mechanism is also applicable to multilingual letter recognition. In experiments, MagicInput achieved outstanding classification accuracy on unseen users, 10 digits (98.3%), 26 uppercase/lowercase English letters (97.8%/95.3%), 49 Japanese characters (91.4%), and the 30 commonly used Chinese characters (93.8%).
 
