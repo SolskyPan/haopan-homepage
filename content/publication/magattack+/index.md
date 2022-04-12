@@ -30,8 +30,8 @@ publishDate: "2021-06-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Transactions on Mobile Computing*
+publication_short: In *IEEE TMC*
 
 abstract: Mobile devices have emerged as the most popular platforms to access information. However, they have also become a major concern of privacy violation. In this paper, we propose MagAttack, which exploits the electromagnetic side channel of a laptop to guess user activities, i.e., application launching and application operation. The key insight of MagAttack is that applications are discrepant in essence due to the different compositions of instructions, which can be reected on the CPU power consumption, and thus the corresponding EM emissions. MagAttack is challenging since that EM signals are noisy due to the dynamics of applications and the limited sampling rate of the built-in magnetometers in COTS mobile devices. We overcome these challenges and convert noisy coarse-grained EM signals to robust ne-grained features. We implement MagAttack on both an iOS and an Android smartphone without any hardware modication, and evaluate its performance with 13 popular applications, 15 YouTube videos, and 50 top websites in China. The results demonstrate that MagAttack can recognize aforementioned 13 applications with an average accuracy of 99.5%, and gure out the playing operation among 15 videos with an average accuracy of 99.5% and the visiting operation among 50 websites with an average accuracy of 90.4%.
 
