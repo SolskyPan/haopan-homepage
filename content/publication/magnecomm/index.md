@@ -43,14 +43,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3117811.3117824'
+url_code: 'https://github.com/SolskyPan/MagneComm'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobicom17_pan.pptx'
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=pj-FfkxMSRU'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
