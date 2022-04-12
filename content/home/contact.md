@@ -22,7 +22,6 @@ content:
     street: 800 Dongchuan RD
     city: Minhang District
     region: Shanghai
-    postcode: '201100'
     country: China
     country_code: CN
   contact_links:
