@@ -36,7 +36,7 @@ publication_short: In *MobiCom 2019*
 abstract: Quick response (QR) codes are becoming pervasive due to their rapid readability and the popularity of smartphones with built-in cameras. QR codes are also gaining importance in the retail sector as a convenient mobile payment method. However, researchers have concerns regarding the security of QR codes, which leave users susceptible to financial loss or private information leakage. In this study, we address this issue by developing a novel QR code (called mQRCode), which exploits patterns presenting a specific spatial frequency as a form of camouflage. When the targeted receiver holds a camera in a designated position (e.g., directly in front at a distance of 30 cm from the camouflaged QR code), the original QR code is revealed in form of a Moiré pattern. From any other position, only the camouflaged QR code can be seen. In experiments, the decryption rate of mQRCode was > 98.6% within 10.2 frames via a multi-frame decryption method. The decryption rate for cameras positioned 20° off axis or > 10cm away from the designated location dropped to 0%, indicating that mQRCode is robust against attacks.
 
 # Summary. An optional shortened abstract.
-summary: Moiré QR Code (mQRCode) achieves secure and robust QR code communication and is a software-based solution which requires no additional hardware or communication channels.
+summary: Moiré QR Code (mQRCode) achieves secure and robust QR code communication and is a software-based solution which requires no additional hardware or communication channels. It exploits nonlinearities in the spatial frequency of light rays to camouflage QR codes from the communication channel, i.e., the camera-screen channel.
 
 tags: []
 
