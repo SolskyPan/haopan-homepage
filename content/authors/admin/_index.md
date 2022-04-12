@@ -18,9 +18,9 @@ bio: My research interests include mobile computing, human-computer interaction 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mobile Computing
+- Human-computer Interaction
+- Computer vision
 
 # Education to show in About widget
 education:
@@ -64,6 +64,6 @@ email: ""
 highlight_name: true
 ---
 
-Hao Pan is a PhD student of computer science at the Shanghai Jiao Tong University. His research interests include mobile computing, human-comuputer interaction and computer vision.
+Hao Pan is a PhD student of computer science at the Shanghai Jiao Tong University. His research interests focus on networked systems and span the areas of mobile computing, human-comuputer interaction and computer vision.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
