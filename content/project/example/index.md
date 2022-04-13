@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Acoustic-based tracking
 summary: An example of using the in-built project page.
 tags:
 - My Research
