@@ -34,7 +34,7 @@ The matrix barcodes known as quick response (QR) codes are a global phenomenon. 
 
 <div align=center>
 <img src="./nonlinearity.jpg" height="400" /></div>
-<center>Fig.2 Two examples of the nonlinearity of spatial frequency in light</center>
+<center style="color:#C0C0C0;text-decoration:underline">Fig.2 Two examples of the nonlinearity of spatial frequency in light</center>
 
 <div align=center>
 <img src="./mqrcode.jpg" height="200" /></div>
