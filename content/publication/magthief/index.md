@@ -49,7 +49,7 @@ featured: false
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9491601/'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://dl.acm.org/doi/abs/10.1145/2968219.2971404'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Mobile App Usage'
+  caption: 'Mobile App Usage Trajectory'
   focal_point: ""
   preview_only: false
 
