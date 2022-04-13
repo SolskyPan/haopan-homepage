@@ -27,10 +27,10 @@ education:
   courses:
   - course: PhD in Computer Science and Engineering
     institution: Shanghai Jiao Tong University
-    year: 2022
+    year: Sept. 2016 - Mar. 2022
   - course: BSc in Information and Communication Engineering
     institution: University of Electronic Science and Technology of China
-    year: 2016
+    year: Sept. 2012 - June 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
