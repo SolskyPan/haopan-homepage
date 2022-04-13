@@ -20,7 +20,9 @@ bio: My research interests include mobile computing, human-computer interaction 
 interests:
 - Mobile Computing
 - Human-computer Interaction
-- Computer vision
+- Wireless Sensing
+- Computer Vision
+
 
 # Education to show in About widget
 education:
