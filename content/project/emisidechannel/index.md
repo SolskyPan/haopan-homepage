@@ -1,6 +1,6 @@
 ---
 title: Sensing and Communication via EM Side-channel
-summary: Mobile security and privacy technologies leveraging electromagnetic (EM) radiation side-channel signals (my main Ph.D project).
+summary: Mobile security and privacy technologies leveraging electromagnetic (EM) radiation side-channel signals (my main PhD project).
 tags:
 - Completed
 date: "2021-10-01T00:00:00Z"
