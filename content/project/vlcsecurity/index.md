@@ -1,6 +1,6 @@
 ---
-title: Secure QR Code
-summary: Improve the security of the tradition QR code system.
+title: Secure QR Code Technologies
+summary: Improve the security of the tradition QR code system based on the hardware characteristics of the digital cameras and screens.
 tags:
 - Completed
 date: "2022-03-08T00:00:00Z"
@@ -30,7 +30,7 @@ slides: ""
 <center style="color:	#696969;text-decoration:underline">Fig.1 (a) QR code can be easily captured by other attackers (in the red area), the captured QR code images mages are at risk of Replay and STLS attack; (b) Real-world cases that happened in Shanghai. The attackers use someone else's payment code to conduct multiple illegal transactions</center>
 
 ## Summary
-The matrix barcodes known as quick response (QR) codes are a global phenomenon. Unfortunately, QR code systems are susceptible to security risks in the form of Replay attacks and Synchronized Token Lifting and Spending (STLS) attacks. In both attacks, an attacker sneakingly obtains the victim’s QR code to make other payment or access the victim’s private information. In this project, we sought to imrove the security of the traditional QR code system from the hardware characteristics of the digital cameras and screens. 
+The matrix barcodes known as quick response (QR) codes are a global phenomenon. Unfortunately, QR code systems are susceptible to security risks in the form of Replay attacks and Synchronized Token Lifting and Spending (STLS) attacks. In both attacks, an attacker sneakingly obtains the victim’s QR code to make other payment or access the victim’s private information. In this project, we sought to imrove the security of the traditional QR code system based on the hardware characteristics of the digital cameras and screens. 
 
 <div align=center>
 <img src="./nonlinearity.jpg" height="400" /></div>
