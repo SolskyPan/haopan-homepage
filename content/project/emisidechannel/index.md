@@ -14,8 +14,8 @@ image:
 
 links:
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/SolskyPan/MagneComm"
+url_pdf: "https://github.com/SolskyPan/haopan-homepage/raw/master/content/project/emisidechannel/panhao_phdthesis.pdf"
 url_slides: ""
 url_video: ""
 
