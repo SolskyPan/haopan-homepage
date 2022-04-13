@@ -32,7 +32,7 @@ slides: ""
 Smartphones are widely used for photography due to their portability and convenience. It’s reported that 90.9% of all photos are taken with smartphones in 2021, and a growing number of professional photographers are adopting mobile cameras as one of their primary photographic tools. To accommodate the diverse needs from casual photos of everyday life to professional photos, smartphone manufacturers have been enhancing phone cameras by installing more lenses, image sensors with larger and higher resolutions, depth sensors, etc. Upgrades to camera hardware have further facilitated new applications, including depth maps, 3D modeling, augmented reality, etc.; however, upgrades have also significantly increased the cost of smartphones. In this project, we show that, without adding additional hardware, we can enhance the functionality of existing smartphone cameras by controlling the Optical Image Stabilization (OIS) module.
 
 <div align=center>
-<img src="./docam.png" height="400" /></div>
+<img src="./ossir.jpg" height="400" /></div>
 <center style="color:	#696969;text-decoration:underline">Fig.2 Top sub-figures show the original image captured by the Xiaomi 11Pro camera, whereas the bottom sub-figures show the super-resolution results obtained using the OISSR system</center>
 
 ## OIS based super resolution (OISSR)
