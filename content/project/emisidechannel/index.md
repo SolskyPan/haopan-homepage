@@ -1,8 +1,8 @@
 ---
 title: Sensing and Communication via EMI Side-channel
-summary: My main PhD project.
+summary: My main Ph.D project.
 tags:
-- Deep Learning
+- Completed
 date: "2021-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
