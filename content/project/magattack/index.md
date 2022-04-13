@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Sensing and Communication via EMI side-channel
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
